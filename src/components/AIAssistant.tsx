@@ -19,11 +19,11 @@ const predefinedResponses: Record<string, string> = {
 
   "resume": "My resume highlights expertise in MERN Stack development, AI-powered applications, data visualization, and cloud deployment. It includes projects focused on agriculture analytics, intelligent document processing, and interactive web applications, along with achievements in state-level hackathons. Would you like to view or download my resume?",
 
-  "contact": "You can reach Katherine at katherinek0727@outlook.com. I am open to full-stack developer roles. You can also connect with me via Telegram or GitHub through the contact section below.",
+  "contact": "You can reach Janeica at Janeica0531@outlook.com. I am open to full-stack developer roles. You can also connect with me via Telegram or GitHub through the contact section below.",
 
-  "hello": "Hello! I'm Katherine's AI Portfolio Assistant 🤖. I can help you explore her skills, projects, experience, certifications, or resume. What would you like to know?",
+  "hello": "Hello! I'm Janeica's AI Portfolio Assistant 🤖. I can help you explore her skills, projects, experience, certifications, or resume. What would you like to know?",
 
-  "default": "I can help you learn more about Katherine's skills, projects, experience, resume, or contact details. Try asking about 'skills', 'projects', 'experience', 'resume', or 'contact'."
+  "default": "I can help you learn more about Janeica's skills, projects, experience, resume, or contact details. Try asking about 'skills', 'projects', 'experience', 'resume', or 'contact'."
 
 
 };
@@ -236,7 +236,7 @@ const AIAssistant = () => {
                     color: 'rgba(10, 10, 15, 0.7)',
                   }}
                 >
-                  Ask me anything about Katherine
+                  Ask me anything about Janeica
                 </span>
               </div>
             </div>

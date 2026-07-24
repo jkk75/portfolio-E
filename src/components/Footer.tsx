@@ -35,7 +35,7 @@ const Footer = () => {
                 fontWeight: 600,
               }}
             >
-              Katherine
+              Janeica
             </span>
           </p>
           <p

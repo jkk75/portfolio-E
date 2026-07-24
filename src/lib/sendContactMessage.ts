@@ -7,7 +7,7 @@ export type ContactFormData = {
   message: string;
 };
 
-const CONTACT_EMAIL = 'katherinek0727@outlook.com';
+const CONTACT_EMAIL = 'janeica0531@outlook.com';
 
 function sendViaMailto(data: ContactFormData): void {
   const subject = data.subject.trim() || `Portfolio message from ${data.name}`;

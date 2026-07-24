@@ -10,7 +10,7 @@ const roles = [
   'Web Developer',
 ];
 
-const NAME = 'Katherine';
+const NAME = 'Janeica';
 
 const HeroSection = () => {
   const [currentRole, setCurrentRole] = useState(0);
