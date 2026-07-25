@@ -15,7 +15,7 @@ const timelineData: TimelineItem[] = [
   {
     year: '07/2022 - 08/2025',
     title: 'Senior Full Stack Developer',
-    organization: 'Shanghai SaaS Technology Company',
+    organization: 'BlueWave Technologies',
     description: 'Led the development of scalable SaaS applications, designing full-stack architectures, building high-performance APIs and services, and optimizing system performance. Experienced in cloud deployment, team collaboration, and mentoring, with a proven impact on efficiency and user experience.',
     type: 'experience',
     skills: ['React', 'PostgreSQL', 'Redis', 'Docker', 'AWS', 'REST APIs', 'Microservices', 'Full-Stack Architecture'],
@@ -32,7 +32,7 @@ const timelineData: TimelineItem[] = [
   {
     year: '12/2020 - 06/2022',
     title: 'Full Stack Developer',
-    organization: 'Hangzhou Hikvision Digital Technology',
+    organization: 'TechCorp Solutions',
     description:
       'Developed and maintained internal platforms using React, Node.js, and Python. Built reusable front-end components, optimized rendering, and refactored backend systems for performance and stability. Worked closely with product teams to deliver features efficiently while ensuring high code quality.',
     type: 'experience',
@@ -51,7 +51,7 @@ const timelineData: TimelineItem[] = [
   {
     year: '09/2019 - 11/2020',
     title: 'Frontend Developer',
-    organization: 'Hangzhou Hikvision Digital Technology',
+    organization: 'Innovatech Systems',
     description:
       'Developed user interfaces and interactive features using modern frontend technologies. Built reusable components, optimized rendering performance, and collaborated with designers and backend teams to deliver responsive and user-friendly applications.',
     type: 'experience',

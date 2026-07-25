@@ -14,12 +14,12 @@ interface EducationItem {
 
 const educationData: EducationItem[] = [
   {
-    year: '2015 - 2019',
+    year: '2017 - 2021',
     degree: 'B.Tech in Computer Science & Engineering',
     institution: 'University of Florida (UF)',
     location: '',
     score: '',
-    description: "Bachelor of Science in Computer Science, University of Florida (UF), 2019. Established a strong foundation in software engineering, algorithms, and system design, which supports my work today as a Senior Full-Stack Developer building scalable, high-performance applications.",
+    description: "Bachelor of Science in Computer Science, University of Florida (UF), 2021. Established a strong foundation in software engineering, algorithms, and system design, which supports my work today as a Senior Full-Stack Developer building scalable, high-performance applications.",
     icon: '🎓',
   },
   // {
