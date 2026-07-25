@@ -4,6 +4,7 @@ import { useRef, useState } from 'react';
 
 const highlights = [
   'Web & Full-Stack Development',
+  'AI',
   'Frontend Expertise',
   'Backend Expertise',
   'Performance & Optimization',
