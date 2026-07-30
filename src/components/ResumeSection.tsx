@@ -24,7 +24,7 @@ const ResumeSection = () => {
     setIsDownloading(true);
     setTimeout(() => {
       setIsDownloading(false);
-      window.open('https://drive.google.com/file/d/1xsqYZjPCB1uYmosd-u3mEKjTthd2MfeY/view', '_blank');
+      window.open('https://drive.google.com/file/d/1H1LTmbskJiRNIgrEF_0dGb84wvw7NYFQ/view', '_blank');
     }, 500);
   };
 
