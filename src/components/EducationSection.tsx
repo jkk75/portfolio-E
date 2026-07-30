@@ -16,10 +16,10 @@ const educationData: EducationItem[] = [
   {
     year: '2017 - 2021',
     degree: 'B.Tech in Computer Science & Engineering',
-    institution: 'University of Florida (UF)',
+    institution: 'Everett Community College',
     location: '',
     score: '',
-    description: "Bachelor of Science in Computer Science, University of Florida (UF), 2021. Established a strong foundation in software engineering, algorithms, and system design, which supports my work today as a Senior Full-Stack Developer building scalable, high-performance applications.",
+    description: "Bachelor of Science in Computer Science, Everett Community College, 2021. Established a strong foundation in software engineering, algorithms, and system design, which supports my work today as a Senior Full-Stack Developer building scalable, high-performance applications.",
     icon: '🎓',
   },
   // {
